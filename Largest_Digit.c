@@ -2,7 +2,6 @@
 int main()
 {
     int num,remider,Largest=0;
-    //printf("Enter the number:");
     scanf("%d",&num);
     while (num > 0)
       {
